@@ -5,7 +5,7 @@ import joblib
 
 # 1. Page configuration
 st.set_page_config(
-    page_title="MovieDekho | Aapne pasand ki Movie Dekhe Abhi",
+    page_title="MoviePage2.0 | Aapne pasand ki Movie Dekhe Abhi",
     layout="wide"
 )
 
